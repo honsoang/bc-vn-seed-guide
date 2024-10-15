@@ -9,4 +9,6 @@ Trong game nó sẽ cho bạn unit/income dựa theo một đống con số mà 
 ## Làm sao để biết được mình đang có seed gì?
 Để track được seed của mình, bạn cần :
 1. Roll gold gacha tầm 7-10 lần, ghi nhớ rằng bạn đã roll ở banner nào và trong suốt quá trình roll bạn ra unit gì.
-2. Sẽ có một cách khác để seek seed mà không cần đợi hàng chờ dài hàng trăm nghìn người ở web godfat, anh em đợi một chút.
+2. Truy cập vào [ampuri seed finder](https://ampuri.github.io/bc-normal-seed-tracking/#rare), copy lấy [gacha information](https://bc.godfat.org/?seed=1&details=true) từ godfat rồi
+   paste vào phần điền parser dưới cùng của web ampuri.
+4. Sau khi paste gacha infomation
